@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtercerify",
+        "uuid": 6728464,
+        "checksum": "qs27wt"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
